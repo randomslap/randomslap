@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kentokazaki.com)
 
 <p>
-  Welcome to my GitHub profile! I'm a full-stack developer from Southern California 🏖
+  Welcome to my GitHub profile! I'm a full-stack developer from Southern California ☀
 </p>
 
 <h3>
