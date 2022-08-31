@@ -16,10 +16,9 @@ const getStats = async () => {
 		legend_name: legend.metadata.legend_name,
 		legend_img: legend.metadata.icon,
 		account_level: data.metadata.level,
-		stats_key: legend.stats[0].metadata.key,
-		stats_value: legend.stats[0].value,
+		stats_key: data.stats[1].metadata.key,
+		stats_value: data.stats[1].value,
 	}
-	console.log(stats)
 	fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
 		if (err) throw err
 		const output = Mustache.render(data.toString(), stats)
