@@ -51,8 +51,8 @@ Languages:
     </h3>
   </summary>
 
-  <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;newcastle-tile.png" alt="Newcastle"/>
-  <h4>Recent Legend: Newcastle</h4>
+  <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;crypto-tile.png" alt="Crypto"/>
+  <h4>Recent Legend: Crypto</h4>
   <h4>Current level: 110</h4>
   <h4>Kills: 178</h4>
 </details>
