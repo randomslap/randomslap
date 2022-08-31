@@ -25,10 +25,6 @@ jobs:
                   key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
             - name: Install dependencies
               run: npm install
-            - name: Create env file
-              run: |
-              touch .env
-              echo API_KEY=${{ secrets.API_KEY }} >> .env
             - name: Generate README file
               run: node index.js
             - name: Commit and Push new README.md to the repository
