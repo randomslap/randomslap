@@ -21,7 +21,6 @@ Front-end:
 -   Redux
 -   Next.js
 -   Apollo GraphQL
--   Sequelize
 -   AWS SDK
 -   Web 3, Ethers.js, HardHat, Ethereum Waffle, Alchemy
 -   Fastlane
@@ -30,7 +29,7 @@ Front-end:
 Back-end:
 
 -   Node.js, Express.js
--   MongoDB, MySQL
+-   MongoDB, MySQL, Sequelize
 -   NGINX
 -   AWS EC2, EBS, DynamoDB, Cognito, Lambda, Appsync, SNS
 -   Google Firebase, Google Cloud Platform
