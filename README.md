@@ -21,7 +21,6 @@ Front-end:
 -   Redux
 -   Next.js
 -   Apollo GraphQL
--   Sequelize
 -   AWS SDK
 -   Web 3, Ethers.js, HardHat, Ethereum Waffle, Alchemy
 -   Fastlane
