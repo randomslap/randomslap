@@ -21,6 +21,7 @@ Front-end:
 -   Redux
 -   Next.js
 -   Apollo GraphQL
+-   Sequelize
 -   AWS SDK
 -   Web 3, Ethers.js, HardHat, Ethereum Waffle, Alchemy
 -   Fastlane
@@ -52,6 +53,6 @@ Languages:
 
   <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;crypto-tile.png" alt="Crypto"/>
   <h4>Recent Legend: Crypto</h4>
-  <h4>Current level: 114</h4>
+  <h4>Current level: 115</h4>
   <h4>Kills: 181</h4>
 </details>
