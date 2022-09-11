@@ -52,6 +52,6 @@ Languages:
 
   <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;crypto-tile.png" alt="Crypto"/>
   <h4>Recent Legend: Crypto</h4>
-  <h4>Current level: 128</h4>
+  <h4>Current level: 129</h4>
   <h4>Kills: 181</h4>
 </details>
