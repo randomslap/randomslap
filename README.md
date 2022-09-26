@@ -21,7 +21,7 @@ Front-end:
 -   Redux
 -   Next.js
 -   Apollo GraphQL
--   AWS Amplify
+-   AWS SDK
 -   Web 3, Ethers.js, HardHat, Ethereum Waffle, Alchemy
 -   Fastlane
 -   Mocha
