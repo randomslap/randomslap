@@ -52,6 +52,6 @@ Languages:
 
   <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;wattson-tile.png" alt="Wattson"/>
   <h4>Recent Legend: Wattson</h4>
-  <h4>Current level: 262</h4>
+  <h4>Current level: 263</h4>
   <h4>Kills: 795</h4>
 </details>
