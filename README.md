@@ -50,8 +50,8 @@ Languages:
     </h3>
   </summary>
 
-  <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;seer-tile.png" alt="Seer"/>
-  <h4>Recent Legend: Seer</h4>
-  <h4>Current level: 297</h4>
+  <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;horizon-tile.png" alt="Horizon"/>
+  <h4>Recent Legend: Horizon</h4>
+  <h4>Current level: 299</h4>
   <h4>Kills: 993</h4>
 </details>
