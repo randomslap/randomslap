@@ -52,6 +52,6 @@ Languages:
 
   <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;octane-tile.png" alt="Octane"/>
   <h4>Recent Legend: Octane</h4>
-  <h4>Current level: 348</h4>
-  <h4>Kills: 1151</h4>
+  <h4>Current level: 350</h4>
+  <h4>Kills: 1159</h4>
 </details>
