@@ -50,8 +50,8 @@ Languages:
     </h3>
   </summary>
 
-  <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;ash-tile.png" alt="Ash"/>
-  <h4>Recent Legend: Ash</h4>
-  <h4>Current level: 366</h4>
-  <h4>Kills: 1174</h4>
+  <img height="200px" src="https:&#x2F;&#x2F;trackercdn.com&#x2F;cdn&#x2F;apex.tracker.gg&#x2F;legends&#x2F;octane-tile.png" alt="Octane"/>
+  <h4>Recent Legend: Octane</h4>
+  <h4>Current level: 371</h4>
+  <h4>Kills: 1179</h4>
 </details>
