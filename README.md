@@ -50,8 +50,8 @@ Languages:
     </h3>
   </summary>
 
-  <img height="200px" src="" alt="Unknown"/>
-  <h4>Recent Legend: Unknown</h4>
+  <img height="200px" src="" alt="Ballistic"/>
+  <h4>Recent Legend: Ballistic</h4>
   <h4>Current level: 376</h4>
   <h4>Kills: 1186</h4>
 </details>
